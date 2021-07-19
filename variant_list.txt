@@ -1,0 +1,1 @@
+# Your variant ids of interest here (line by line), e.g. rs61748411.
